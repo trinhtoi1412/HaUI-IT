@@ -1,0 +1,20 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  InitShader.cpp
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(581,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(770,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(777,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(784,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+  example1.cpp
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(581,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(770,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(777,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\mat.h(784,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(126,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(126,29): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(126,24): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(133,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(133,51): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\GLSLExperiment\example1.cpp(133,45): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  Generating Code...
+example1.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLSLExperiment.vcxproj -> C:\Users\Trinh Toi - HaUI\Documents\HaUI-Learning\ĐHMT\Ktra_Ban_co_ngan\Debug\GLSLExperiment.exe

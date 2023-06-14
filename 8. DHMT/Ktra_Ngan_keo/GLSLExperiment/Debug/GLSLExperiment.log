@@ -1,0 +1,17 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\mat.h(581,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\mat.h(770,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\mat.h(777,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\mat.h(784,5): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(86,33): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(86,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(93,53): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(100,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(107,32): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(107,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(119,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(120,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(194,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\GLSLExperiment\example1.cpp(199,19): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\ĐHMT\Ngan_keo_co_ban\Debug\GLSLExperiment.exe
