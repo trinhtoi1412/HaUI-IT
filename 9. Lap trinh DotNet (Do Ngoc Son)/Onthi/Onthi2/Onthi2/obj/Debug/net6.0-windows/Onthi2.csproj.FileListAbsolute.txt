@@ -1,0 +1,134 @@
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.exe
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.deps.json
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.runtimeconfig.json
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.pdb
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Humanizer.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.AssemblyReference.cache
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\App.g.cs
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2_MarkupCompile.cache
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2_MarkupCompile.lref
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.g.resources
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.AssemblyInfoInputs.cache
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.AssemblyInfo.cs
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.CoreCompileInputs.cache
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.CopyComplete
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\refint\Onthi2.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.pdb
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.genruntimeconfig.cache
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\ref\Onthi2.dll
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Window1.g.cs
+E:\Lap trinh .NET\On thi cuoi ky\Onthi2\Onthi2\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.exe
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.deps.json
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.runtimeconfig.json
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Onthi2.pdb
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.AssemblyReference.cache
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2_MarkupCompile.cache
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2_MarkupCompile.lref
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.g.resources
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.AssemblyInfoInputs.cache
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.AssemblyInfo.cs
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.csproj.CopyComplete
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\refint\Onthi2.dll
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.pdb
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\Onthi2.genruntimeconfig.cache
+C:\Users\Trinh Toi - HaUI\Documents\HaUI Learning\.NET PROGRAMMING\Thi DotNet\Onthi2\Onthi2\obj\Debug\net6.0-windows\ref\Onthi2.dll

@@ -1,0 +1,60 @@
+﻿<Window x:Class="OnThi1106.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OnThi1106"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBox">
+                <Setter Property="FontStyle" Value="Italic"></Setter>
+                <Setter Property="FontSize" Value="14"></Setter>
+                <Setter Property="FontFamily" Value="Times New Roman"></Setter>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Width" Value="100"/>
+                <Setter Property="Height" Value="35"/>
+                <Setter Property="Template" >
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Grid>
+                                <Ellipse Fill="Cyan"/>
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+            <Style TargetType="DataGridColumnHeader">
+                <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                <Setter Property="FontWeight" Value="Bold"></Setter>
+            </Style>
+        </Grid.Resources>
+        <Label Content="Mã bệnh nhân" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_mabn" HorizontalAlignment="Left" Margin="200,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Họ tên" HorizontalAlignment="Left" Margin="50,100,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_hoten" HorizontalAlignment="Left" Margin="200,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Số ngày nằm viện" HorizontalAlignment="Left" Margin="50,150,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_songay" HorizontalAlignment="Left" Margin="200,150,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Khoa khám" HorizontalAlignment="Left" Margin="50,200,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="cbokhoakham" HorizontalAlignment="Left" Margin="200,200,0,0" VerticalAlignment="Top" Width="120"/>
+        <DataGrid Name="dgvBenhNhan" Margin="50,250,100,100"
+                  AlternatingRowBackground="AntiqueWhite"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  SelectedCellsChanged="data_SelectedCellsChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding MaBn}" Width="120"  ></DataGridTextColumn>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" Width="120" ></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}" Width="80" ></DataGridTextColumn>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}" Width="120" ></DataGridTextColumn>
+                <DataGridTextColumn Header="Viện phí" Binding="{Binding VienPhi}" Width="*" ></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="butThem" Content="Thêm" HorizontalAlignment="Left" Margin="200,530,0,0" VerticalAlignment="Top" Width="80" Click="butThem_Click" />
+        <Button Name="butTim" Content="Tìm" HorizontalAlignment="Left" Margin="350,530,0,0" VerticalAlignment="Top" Width="80" Click="butTim_Click"/>
+       
+    </Grid>
+</Window>

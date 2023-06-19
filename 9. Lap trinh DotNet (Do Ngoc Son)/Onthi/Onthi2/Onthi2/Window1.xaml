@@ -1,0 +1,27 @@
+﻿<Window x:Class="Onthi2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Onthi2"
+        mc:Ignorable="d"
+        Title="Window1" Height="400" Width="650" FontSize="18" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="data" HorizontalAlignment="Center" VerticalAlignment="Center" Width="600" Height="230"
+                  AutoGenerateColumns="False" CanUserAddRows="False" AlternatingRowBackground="Cyan">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã SP" Binding="{Binding MaSp}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Tên SP" Binding="{Binding TenSp}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Tên loại SP" Binding="{Binding TenLoai}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số lượng đã bán" Binding="{Binding SoLuongBan}">
+                    <DataGridTextColumn.CellStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Tổng số tiền bán" Binding="{Binding TongTien}" Width="*"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
